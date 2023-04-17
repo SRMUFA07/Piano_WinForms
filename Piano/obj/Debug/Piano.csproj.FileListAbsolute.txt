@@ -1,0 +1,20 @@
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Piano\bin\Debug\Piano.exe
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Piano\bin\Debug\Piano.pdb
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Piano\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Piano\obj\Debug\Piano.Form1.resources
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Piano\obj\Debug\Piano.Properties.Resources.resources
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Piano\obj\Debug\Piano.csproj.GenerateResource.Cache
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Piano\obj\Debug\Piano.exe
+C:\Users\SRMUFA07\AppData\Local\Temporary Projects\Piano\obj\Debug\Piano.pdb
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Piano\Piano\obj\Debug\Piano.exe
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Piano\Piano\obj\Debug\Piano.pdb
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Piano\Piano\bin\Debug\Piano.exe
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Piano\Piano\bin\Debug\Piano.pdb
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Piano\Piano\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Piano\Piano\obj\Debug\Piano.Form1.resources
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Piano\Piano\obj\Debug\Piano.Properties.Resources.resources
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Piano\Piano\obj\Debug\Piano.csproj.GenerateResource.Cache
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Piano\Piano\bin\Debug\Piano.exe.manifest
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Piano\Piano\bin\Debug\Piano.application
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Piano\Piano\obj\Debug\Piano.exe.manifest
+C:\Users\SRMUFA07\Documents\Visual Studio 2008\Projects\Piano\Piano\obj\Debug\Piano.application
